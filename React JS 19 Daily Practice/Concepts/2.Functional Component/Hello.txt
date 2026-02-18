@@ -1,0 +1,3 @@
+/* Functional Component- 
+1.First Letter should be Capital Letter i.e App,Fruit,Colors
+*/
